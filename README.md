@@ -1,4 +1,10 @@
 
+## Note
+
+codice_fiscale_validator.py è solo un demo generato da Gemini.
+
+location_codes.json è il file per i developers. 
+
 ## Fonte
 
 Comuni Italiani: 
