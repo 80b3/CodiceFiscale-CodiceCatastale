@@ -1,9 +1,11 @@
 
 ## Note
 
-codice_fiscale_validator.py è solo un demo generato da Gemini.
+python "codice_fiscale_validator" è solo un demo generato da Gemini.
 
-location_codes.json è il file per i developers. 
+json "location_codes" è il file per i developers. 
+
+cartella "PassaggioEstrazione" si dimostra come viene estratto i dati. 
 
 ## Fonte
 
@@ -18,8 +20,3 @@ Stati Esteri:
 site: Studio K SRL
 
 [help.studiok.it/etri/codicefiscaledeglistatiesteri](help.studiok.it/etri/codicefiscaledeglistatiesteri)
-
-## Cartella "PassaggioEstrazione"
-
-si dimostra come viene estratto i dati. 
-
